@@ -1,5 +1,4 @@
 ## you should've won, adam
-## now i will
 
 ## Libraries
 library(tidyverse)
@@ -26,11 +25,11 @@ remDr$open()
 remDr$navigate(form)
 
 ## variables
-email <- 'vficarrotta@gmail.com'
-fn <- 'vince'
-ln <- 'ficarrotta'
-pn <- '9047350138'
-address <- '3297 S College St, apt D204, Auburn, Alabama 36830'
+email <- ''
+fn <- ''
+ln <- ''
+pn <- ''
+address <- ''
 
 #### Filling the form
 
