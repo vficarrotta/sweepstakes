@@ -72,7 +72,7 @@ for(i in 1:1000000){
     entering <- remDr$findElement(using='css selector', '.RveJvd')
     entering$clickElement()
 
-    ## points!
+    ## points
     print(i * 5)
 }
 
